@@ -13,7 +13,7 @@ if(password == ""){
 }
 if( username == "Test" && password == "test#123"){
     alert("Login successfully");
-    window.location = "gameboard.html";
+    window.location = "loginform.html";
     return false;
 }
 else{
